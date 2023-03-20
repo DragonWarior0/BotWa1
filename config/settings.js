@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 // EDIT DISINI
 global.owner = ['6281290317038'] // no own
-global.author = 'KurrXd' // nama author 
-global.packname = 'xd bot whatsapp' // nama pack sticker
+global.author = 'Akemi' // nama author 
+global.packname = '𝐓𝐡𝐮𝐧𝐝𝐞𝐫𝐗𝐌' // nama pack sticker
 global.namabot = 'XD BOTZ' // nama bot mu
 global.group = 'https://chat.whatsapp.com/HWV3ZH2Xh6JKxDySbMdBkp' // grup mu
 global.pic = 'https://telegra.ph/file/36211850fa46193ef96ad.jpg' // logo lu
