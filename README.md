@@ -32,7 +32,7 @@
 [klik ini untuk download zip](https://github.com/xd-team-botz/xdbotz-v4/archive/refs/heads/main.zip)
 
 ## OFFICIAL GROUP 
-[klik ini untuk gabung](https://chat.whatsapp.com/FSALEynItwA0rMyLIgBA8M)
+[klik ini untuk gabung](https://chat.whatsapp.com/KRhX0tY6slN22I94G3uPhV)
 
 ## DEVELOPER THIS PROJECT
 - (KurrXd)
