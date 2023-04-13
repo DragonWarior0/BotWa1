@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 // EDIT DISINI
-global.owner = ['6281290317038'] // no own
+global.owner = ['6285944606192'] // no own
 global.author = 'Akemi' // nama author 
 global.packname = '𝐓𝐡𝐮𝐧𝐝𝐞𝐫𝐗𝐌' // nama pack sticker
 global.namabot = 'XD BOTZ' // nama bot mu
